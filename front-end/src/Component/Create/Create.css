@@ -1,0 +1,31 @@
+.label{
+    background-color: green;
+    padding: 20px;
+    display: flex;
+    width: 100px;
+    height: 2vh;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    color: white;
+    border-radius: 10px;
+}
+.img{
+    width: 10rem;
+    margin-top: 30px;
+}
+.form{
+    border: 1px solid black;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+}
+.uplbtn{
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    font-weight: 600;
+    background-color: rgb(46, 255, 255);
+    border-radius: 10px;
+}

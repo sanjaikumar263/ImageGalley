@@ -1,0 +1,59 @@
+.input_feilt{
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: rgba(68, 73, 73, 0.463);
+    width: 700px;
+    margin-left:25%;
+    margin-top: 10px;
+    height: 60vh;
+    border-radius: 10px;
+    gap: 20px;
+}
+.lgin{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.sigbtn{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.sigform{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: rgba(68, 73, 73, 0.463);
+    width: 700px;
+    margin-left:25%;
+    margin-top: 10px;
+    height: 60vh;
+    border-radius: 10px;
+    gap: 10px;
+}
+.sngbtn{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.Lgin{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
